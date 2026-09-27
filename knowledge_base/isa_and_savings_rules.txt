@@ -1,0 +1,25 @@
+LLOYDS FINANCIAL (TRAINING SCENARIO) — ISA AND SAVINGS ACCOUNT RULES
+Document ID: POL-SAV-009 | Last reviewed: this is synthetic training content, not a real policy
+
+1. Individual Savings Account (ISA) allowance
+   - The total ISA subscription limit follows the current UK tax-year
+     allowance, split across cash ISA, stocks and shares ISA, and
+     innovative finance ISA as the customer chooses.
+   - Transfers from a previous tax year's ISA do not count against the
+     current year's allowance.
+
+2. Cash ISA
+   - Variable and fixed-rate cash ISA products are available.
+   - Fixed-rate cash ISAs require funds to be locked in for the stated term
+     (1, 2, or 3 years); early access incurs an interest penalty equivalent
+     to 90 to 180 days of interest depending on the term.
+
+3. Easy access savings
+   - No withdrawal limits or notice periods.
+   - Interest is calculated daily and paid monthly or annually, as selected
+     by the customer at account opening.
+
+4. Regular saver account
+   - Monthly deposits between £25 and £250.
+   - A preferential interest rate applies only while the linked current
+     account remains open and in good standing.

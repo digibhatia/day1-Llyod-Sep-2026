@@ -1,0 +1,7 @@
+# Day 1 — Python dependencies
+# Install with:  pip install -r requirements.txt
+
+python-dotenv>=1.0.0        # loads the .env file
+openai>=1.40.0              # OpenAI SDK (embeddings — always required; chat, if you use it)
+chromadb>=0.5.0             # vector database used by vectorstore.py
+numpy>=1.26.0               # cosine-similarity maths in 01_vector_embeddings_demo.py

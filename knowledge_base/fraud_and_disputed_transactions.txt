@@ -1,0 +1,27 @@
+LLOYDS FINANCIAL (TRAINING SCENARIO) — FRAUD AND DISPUTED TRANSACTIONS POLICY
+Document ID: POL-FRD-031 | Last reviewed: this is synthetic training content, not a real policy
+
+1. Reporting a suspected fraudulent transaction
+   - Customers should report suspected fraud within 13 months of the
+     transaction date to remain eligible for a full investigation.
+   - Reports can be made via the mobile app "Report a Transaction" flow,
+     by phone, or in branch.
+
+2. Card is present at time of loss
+   - If a card is lost, stolen, or used without authorisation, the customer's
+     maximum liability before the bank is notified is £50, in line with
+     industry standard practice, unless gross negligence is established.
+   - Once a loss is reported, the customer has no further liability for
+     transactions made after the report time.
+
+3. Authorised push payment (APP) fraud
+   - Claims relating to authorised push payment fraud (where a customer was
+     deceived into authorising a payment themselves) are assessed under the
+     APP fraud reimbursement scheme.
+   - A standard claim is assessed within 5 working days; complex cases may
+     take up to 35 working days with the customer informed of the delay.
+
+4. Dispute resolution
+   - If a customer disagrees with the outcome of a fraud investigation, they
+     may request a review, and subsequently escalate to the Financial
+     Ombudsman Service if unresolved after 8 weeks.

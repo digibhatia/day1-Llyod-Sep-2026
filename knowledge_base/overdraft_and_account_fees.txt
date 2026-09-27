@@ -1,0 +1,25 @@
+LLOYDS FINANCIAL (TRAINING SCENARIO) — CURRENT ACCOUNT OVERDRAFT AND FEES
+Document ID: POL-ACC-022 | Last reviewed: this is synthetic training content, not a real policy
+
+1. Arranged overdraft
+   - Interest rate: 39.9% EAR (variable) on arranged overdraft balances.
+   - Customers can apply for an arranged overdraft limit between £100 and
+     £5,000 through online banking, subject to an affordability check.
+   - No daily or monthly usage fee is charged for arranged overdrafts.
+
+2. Unarranged overdraft
+   - If a payment takes the account beyond an arranged limit (or into
+     negative balance with no arranged limit), it is treated as unarranged.
+   - No unarranged overdraft fee is charged, but the same 39.9% EAR interest
+     rate applies to the unarranged portion of the balance.
+   - Customers are notified by app or SMS alert before an unarranged
+     overdraft interest charge is applied where possible.
+
+3. Grace period
+   - A 30-day grace period applies to newly opened student and graduate
+     accounts, during which overdraft interest is charged at 0%.
+
+4. Account fees
+   - Standard current accounts: no monthly fee.
+   - Premium packaged account: £17/month, including travel and phone
+     insurance and a preferential overdraft rate of 19.9% EAR.

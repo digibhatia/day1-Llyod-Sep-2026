@@ -1,0 +1,27 @@
+LLOYDS FINANCIAL (TRAINING SCENARIO) — RESIDENTIAL MORTGAGE LENDING CRITERIA
+Document ID: POL-MTG-014 | Last reviewed: this is synthetic training content, not a real policy
+
+1. Eligibility
+   - Applicants must be a UK resident aged 18 or over.
+   - Minimum deposit: 10% of property value for standard residential mortgages.
+   - Maximum loan-to-value (LTV): 90% for standard applicants; 95% under the
+     assisted first-time-buyer scheme.
+
+2. Affordability
+   - Maximum loan amount is capped at 4.5x sole or joint annual gross income.
+   - A stress-tested affordability check is applied at the Bank of England base
+     rate plus 3 percentage points.
+   - Existing unsecured debt repayments are deducted from usable income before
+     the multiple is applied.
+
+3. Term and rate
+   - Standard mortgage terms range from 5 to 35 years.
+   - Fixed-rate products are available for 2, 3, 5, or 10-year initial periods.
+   - Early repayment charges apply during the fixed-rate period, typically
+     1% to 5% of the outstanding balance depending on the product.
+
+4. Documentation required
+   - Three months of payslips or two years of accounts for self-employed
+     applicants.
+   - Three months of bank statements.
+   - Proof of deposit source (savings, gift letter, or property sale).
